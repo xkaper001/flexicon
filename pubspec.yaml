@@ -1,0 +1,39 @@
+name: flexicon
+description: "Flex Icon from Streamlinehq"
+version: 0.1.0
+homepage: https://www.streamlinehq.com/icons/flex-line
+repository: https://github.com/xkaper001/flexicon
+issue_tracker: https://github.com/xkaper001/flexicon/issues
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+topics:
+  - flutter
+  - icon
+  - icons
+  - streamline
+  - flexicon
+
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  fonts:
+   - family: FlexRemix
+     fonts:
+      - asset: fonts/FlexRemix.ttf
