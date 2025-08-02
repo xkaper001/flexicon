@@ -5,9 +5,19 @@ A Flutter package providing beautiful icons from Streamline's Flex collection.
 [![Pub Version](https://img.shields.io/pub/v/flexicon)](https://pub.dev/packages/flexicon)
 [![License](https://img.shields.io/github/license/xkaper001/flexicon)](https://github.com/xkaper001/flexicon/blob/main/LICENSE)
 
+<img width="auto" height="auto" alt="Cover" src="https://github.com/user-attachments/assets/78b7fcc7-8aaa-48f6-a76f-90e4d5920cc6" />
+
+## Showcases
+<img width="47%" height="auto" alt="multi" src="https://github.com/user-attachments/assets/d059a4cf-f33f-41af-97ec-637b88a91fae" />
+<img width="47%" height="auto" alt="watch" src="https://github.com/user-attachments/assets/e7ba60ca-e958-435e-af8c-0e6116b6890f" />
+<img width="47%" height="auto" alt="sidebar" src="https://github.com/user-attachments/assets/7b9e4cf6-3326-4951-bb70-9ac239537708" />
+<img width="47%" height="auto" alt="Dashboard" src="https://github.com/user-attachments/assets/61e86559-9714-40c3-be15-f4f08f59a41a" />
+
+
+
 ## About
 
-Flexicon is a Flutter package that provides access to the Flex icon collection from [Streamline HQ](https://www.streamlinehq.com/icons/flex-line). This package includes a comprehensive set of high-quality, pixel-perfect icons designed for modern applications.
+Flexicon is a Flutter package that provides access to the Flex icon collection from [Streamline HQ](https://www.streamlinehq.com/icons/flex-line-free). This package includes a comprehensive set of high-quality, pixel-perfect icons designed for modern applications.
 
 ## Features
 
@@ -109,27 +119,9 @@ The package includes a comprehensive collection of icons covering various catego
 - **Navigation**: `home2`, `login1`, `logout1`, `arrowCursor*`
 - **Media**: `brightness`, `colorPicker`, `magicWand`, `paintbrush`
 
-And many more! Check the [full icon list](lib/src/remix.dart) for all available icons.
+And many more! Check the [full icon list](https://www.streamlinehq.com/icons/flex-line-free) for all available icons.
 
-## Icon Categories
 
-### UI & Interface
-- `heart`, `starCircle`, `giveStar`, `multipleStars`
-- `bookmark`, `tag`, `newBadgeHighlight`
-- `bellNotification`, `informationCircle`
-
-### Tools & Actions
-- `magnifyingGlass`, `scanner`, `colorPicker`
-- `penTool`, `paintbrush2`, `featherPen`
-- `wrenchHand`, `screwdriverWrench`
-
-### Media & Content
-- `textFile`, `newFile`, `pdfReaderApplication`
-- `presentation`, `whiteBoard`, `screenshot`
-
-### Navigation & Layout
-- `home2`, `dashboard3`, `layoutWindow1`
-- `maximize2`, `fullScreenOsx`, `panoramicScreen`
 
 ## Contributing
 
@@ -141,7 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-Icons are from [Streamline HQ's Flex collection](https://www.streamlinehq.com/icons/flex-line). Please ensure you have the appropriate license from Streamline HQ for commercial use.
+Icons are from [Streamline HQ's Flex collection](https://www.streamlinehq.com/icons/flex-line-free). Please ensure you have the appropriate license from Streamline HQ for commercial use.
 
 ## Support
 
