@@ -1,6 +1,6 @@
 name: flexicon
 description: "Flex Icon from Streamlinehq"
-version: 0.6.0
+version: 0.7.0
 homepage: https://www.streamlinehq.com/icons/flex-line
 repository: https://github.com/xkaper001/flexicon
 issue_tracker: https://github.com/xkaper001/flexicon/issues
@@ -51,3 +51,6 @@ flutter:
     - family: FlexSolid
       fonts:
         - asset: fonts/FlexSolid.ttf
+    - family: Gradient
+      fonts:
+        - asset: fonts/FlexGradient.ttf

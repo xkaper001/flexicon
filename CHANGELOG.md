@@ -1,3 +1,11 @@
+## 0.7.0
+
+* Added new Gradient icon collection with 500+ gradient-style icons from Streamline's Flex Gradient collection
+* Introduced `FlexIcon.gradient` collection alongside existing icon sets (remix, pop, flat, line, neon, and solid)
+* Enhanced icon coverage with seven comprehensive icon sets covering all major Streamline Flex icon styles
+* Updated font assets to include FlexGradient font family
+* Complete icon ecosystem with all available Streamline Flex icon styles
+
 ## 0.6.0
 
 * Added new Solid icon collection with 500+ filled solid icons from Streamline's Flex Solid collection
