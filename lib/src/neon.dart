@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class Neon {
   const Neon();
 
-  static const String _fontFamily = 'Neon';
+  static const String _fontFamily = 'FlexNeon';
 
   IconData get workspaceDesk => IconData(0xe900, fontFamily: _fontFamily);
   IconData get groupMeetingApproval => IconData(0xe901, fontFamily: _fontFamily);

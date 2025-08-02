@@ -7,10 +7,7 @@ class SomeWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Flexicon Example'),
-        leading: Icon(FlexIcon.remix.home2),
-      ),
+      appBar: AppBar(title: Text('Flexicon Example'), leading: Icon(FlexIcon.remix.home2)),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -23,10 +20,7 @@ class SomeWidget extends StatelessWidget {
           ],
         ),
       ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {},
-        child: Icon(FlexIcon.remix.magicWand1),
-      ),
+      floatingActionButton: FloatingActionButton(onPressed: () {}, child: Icon(FlexIcon.remix.magicWand1)),
     );
   }
 }

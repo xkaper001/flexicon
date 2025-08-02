@@ -1,3 +1,4 @@
+import 'src/duo.dart';
 import 'src/flat.dart';
 import 'src/gradient.dart';
 import 'src/line.dart';
@@ -7,6 +8,7 @@ import 'src/remix.dart';
 import 'src/solid.dart';
 
 class FlexIcon {
+  static const duo = Duo();
   static const flat = Flat();
   static const gradient = Gradient();
   static const line = Line();

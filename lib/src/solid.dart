@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class Solid {
   const Solid();
 
-  static const String _fontFamily = 'Solid';
+  static const String _fontFamily = 'FlexSolid';
 
   IconData get workspaceDesk => IconData(0xe900, fontFamily: _fontFamily);
   IconData get groupMeetingApproval => IconData(0xe901, fontFamily: _fontFamily);

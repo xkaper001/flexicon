@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class Gradient {
   const Gradient();
 
-  static const String _fontFamily = 'Gradient';
+  static const String _fontFamily = 'FlexGradient';
 
   IconData get workspaceDesk1 => IconData(0xeff4, fontFamily: _fontFamily);
   IconData get groupMeetingApproval1 => IconData(0xeff5, fontFamily: _fontFamily);

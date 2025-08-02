@@ -1,3 +1,11 @@
+## 0.8.0
+
+* Added new Duo icon collection with 500+ dual-tone icons from Streamline's Flex Duo collection
+* Introduced `FlexIcon.duo` collection alongside existing icon sets (remix, pop, flat, line, neon, solid, and gradient)
+* Enhanced icon coverage with eight comprehensive icon sets covering all major Streamline Flex icon styles
+* Updated font assets to include FlexDuo font family
+* Complete icon ecosystem with all available Streamline Flex icon styles including dual-tone variants
+
 ## 0.7.0
 
 * Added new Gradient icon collection with 500+ gradient-style icons from Streamline's Flex Gradient collection
