@@ -1,12 +1,12 @@
-## 0.1.0
+## 0.1.2
 
-* Initial release of Flexicon package.
-* Added FlexRemix support.
+* Improved documentation for better clarity.
 
 ## 0.1.1
 
 * Updated README.md to enhance package description and usage examples.
 
-## 0.1.2
+## 0.1.0
 
-* Improved documentation for better clarity.
+* Initial release of Flexicon package.
+* Added FlexRemix support.
