@@ -1,3 +1,11 @@
+## 0.5.0
+
+* Added new Neon icon collection with 500+ vibrant neon-style icons from Streamline's Flex Neon collection
+* Introduced `FlexIcons.neon` collection alongside existing `remix`, `pop`, `flat`, and `line` collections
+* Enhanced icon coverage with five comprehensive icon sets (Remix, Pop, Flat, Line, and Neon)
+* Updated font assets to include FlexNeon font family
+* Complete icon ecosystem covering all major Streamline Flex icon styles
+
 ## 0.4.0
 
 * Added new Line icon collection with 500+ minimal line icons from Streamline's Flex Line collection
