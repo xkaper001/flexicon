@@ -1,3 +1,11 @@
+## 0.3.0
+
+* Added new Flat icon collection with 500+ icons from Streamline's Flex Flat collection
+* Introduced `FlexIcons.flat` collection alongside existing `remix` and `pop` collections
+* Enhanced icon coverage with three comprehensive icon sets (Remix, Pop, and Flat)
+* Updated font assets to include FlexFlat font family
+* Improved package completeness with all major Streamline Flex icon styles
+
 ## 0.2.0
 
 * **BREAKING CHANGE**: Restructured package API for better organization

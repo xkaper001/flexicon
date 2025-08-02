@@ -18,7 +18,6 @@ topics:
   - streamline
   - flexicon
 
-
 environment:
   sdk: ^3.8.1
   flutter: ">=1.17.0"
@@ -34,9 +33,12 @@ dev_dependencies:
 
 flutter:
   fonts:
-   - family: FlexRemix
-     fonts:
-      - asset: fonts/FlexRemix.ttf
-   - family: Pop
-     fonts:
-      - asset: fonts/Pop.ttf
+    - family: FlexRemix
+      fonts:
+        - asset: fonts/FlexRemix.ttf
+    - family: FlexPop
+      fonts:
+        - asset: fonts/FlexPop.ttf
+    - family: FlexFlat
+      fonts:
+        - asset: fonts/FlexFlat.ttf

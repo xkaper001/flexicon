@@ -6,27 +6,34 @@ class Remix {
   static const String _fontFamily = 'FlexRemix';
 
   IconData get workspaceDesk => IconData(0xe900, fontFamily: _fontFamily);
-  IconData get groupMeetingApproval => IconData(0xe901, fontFamily: _fontFamily);
+  IconData get groupMeetingApproval =>
+      IconData(0xe901, fontFamily: _fontFamily);
   IconData get officeBuilding1 => IconData(0xe902, fontFamily: _fontFamily);
   IconData get school => IconData(0xe903, fontFamily: _fontFamily);
-  IconData get definitionSearchBook => IconData(0xe904, fontFamily: _fontFamily);
+  IconData get definitionSearchBook =>
+      IconData(0xe904, fontFamily: _fontFamily);
   IconData get graduationCap => IconData(0xe905, fontFamily: _fontFamily);
   IconData get bookReading => IconData(0xe906, fontFamily: _fontFamily);
-  IconData get dictionaryLanguageBook => IconData(0xe907, fontFamily: _fontFamily);
+  IconData get dictionaryLanguageBook =>
+      IconData(0xe907, fontFamily: _fontFamily);
   IconData get politicsSpeech => IconData(0xe908, fontFamily: _fontFamily);
   IconData get newsPaper => IconData(0xe909, fontFamily: _fontFamily);
   IconData get politicsVote2 => IconData(0xe90a, fontFamily: _fontFamily);
   IconData get tickets => IconData(0xe90b, fontFamily: _fontFamily);
   IconData get heart => IconData(0xe90c, fontFamily: _fontFamily);
-  IconData get pathfinderMinusFront2 => IconData(0xe90d, fontFamily: _fontFamily);
+  IconData get pathfinderMinusFront2 =>
+      IconData(0xe90d, fontFamily: _fontFamily);
   IconData get irisScan => IconData(0xe90e, fontFamily: _fontFamily);
   IconData get cleanBroomWipe => IconData(0xe90f, fontFamily: _fontFamily);
   IconData get oneFingerTap => IconData(0xe910, fontFamily: _fontFamily);
   IconData get lockRotation => IconData(0xe911, fontFamily: _fontFamily);
   IconData get screwdriverWrench => IconData(0xe912, fontFamily: _fontFamily);
-  IconData get wordWrapAroundBoundingBox => IconData(0xe913, fontFamily: _fontFamily);
-  IconData get flipHorizontalCircle2 => IconData(0xe914, fontFamily: _fontFamily);
-  IconData get stopwatchThreeQuarter => IconData(0xe915, fontFamily: _fontFamily);
+  IconData get wordWrapAroundBoundingBox =>
+      IconData(0xe913, fontFamily: _fontFamily);
+  IconData get flipHorizontalCircle2 =>
+      IconData(0xe914, fontFamily: _fontFamily);
+  IconData get stopwatchThreeQuarter =>
+      IconData(0xe915, fontFamily: _fontFamily);
   IconData get starCircle => IconData(0xe916, fontFamily: _fontFamily);
   IconData get binoculars => IconData(0xe917, fontFamily: _fontFamily);
   IconData get megaphone1 => IconData(0xe918, fontFamily: _fontFamily);
@@ -35,7 +42,8 @@ class Remix {
   IconData get tableLamp2 => IconData(0xe91b, fontFamily: _fontFamily);
   IconData get giveStar => IconData(0xe91c, fontFamily: _fontFamily);
   IconData get satelliteDish => IconData(0xe91d, fontFamily: _fontFamily);
-  IconData get pdfReaderApplication => IconData(0xe91e, fontFamily: _fontFamily);
+  IconData get pdfReaderApplication =>
+      IconData(0xe91e, fontFamily: _fontFamily);
   IconData get alignTextTop => IconData(0xe91f, fontFamily: _fontFamily);
   IconData get spiralShape => IconData(0xe920, fontFamily: _fontFamily);
   IconData get brokenLink1 => IconData(0xe921, fontFamily: _fontFamily);
@@ -59,25 +67,29 @@ class Remix {
   IconData get alignBack1 => IconData(0xe933, fontFamily: _fontFamily);
   IconData get textFile => IconData(0xe934, fontFamily: _fontFamily);
   IconData get countdownTimer => IconData(0xe935, fontFamily: _fontFamily);
-  IconData get userCollaborateGroup => IconData(0xe936, fontFamily: _fontFamily);
+  IconData get userCollaborateGroup =>
+      IconData(0xe936, fontFamily: _fontFamily);
   IconData get wrapArcUpper => IconData(0xe937, fontFamily: _fontFamily);
   IconData get downloadTray => IconData(0xe938, fontFamily: _fontFamily);
   IconData get texture => IconData(0xe939, fontFamily: _fontFamily);
   IconData get dCoordinateAxis => IconData(0xe93a, fontFamily: _fontFamily);
   IconData get labelFolderTag => IconData(0xe93b, fontFamily: _fontFamily);
   IconData get brightness1 => IconData(0xe93c, fontFamily: _fontFamily);
-  IconData get nonCommercialDollars => IconData(0xe93d, fontFamily: _fontFamily);
+  IconData get nonCommercialDollars =>
+      IconData(0xe93d, fontFamily: _fontFamily);
   IconData get contactBook => IconData(0xe93e, fontFamily: _fontFamily);
   IconData get lineArrowRoadmap => IconData(0xe93f, fontFamily: _fontFamily);
   IconData get like1 => IconData(0xe940, fontFamily: _fontFamily);
   IconData get endPointDiamond => IconData(0xe941, fontFamily: _fontFamily);
   IconData get block2 => IconData(0xe942, fontFamily: _fontFamily);
   IconData get hierarchy13 => IconData(0xe943, fontFamily: _fontFamily);
-  IconData get desktopScreensaverSleep => IconData(0xe944, fontFamily: _fontFamily);
+  IconData get desktopScreensaverSleep =>
+      IconData(0xe944, fontFamily: _fontFamily);
   IconData get recycleBin3 => IconData(0xe945, fontFamily: _fontFamily);
   IconData get japaneseAlphabet => IconData(0xe946, fontFamily: _fontFamily);
   IconData get recycleBinThrow1 => IconData(0xe947, fontFamily: _fontFamily);
-  IconData get trackSelectRightTool => IconData(0xe948, fontFamily: _fontFamily);
+  IconData get trackSelectRightTool =>
+      IconData(0xe948, fontFamily: _fontFamily);
   IconData get sun => IconData(0xe949, fontFamily: _fontFamily);
   IconData get informationCircle => IconData(0xe94a, fontFamily: _fontFamily);
   IconData get magnifyingGlass => IconData(0xe94b, fontFamily: _fontFamily);
@@ -86,8 +98,10 @@ class Remix {
   IconData get fullScreenOsx => IconData(0xe94e, fontFamily: _fontFamily);
   IconData get maximize2 => IconData(0xe94f, fontFamily: _fontFamily);
   IconData get roundAnchorPoint => IconData(0xe950, fontFamily: _fontFamily);
-  IconData get picturesFolderMemories => IconData(0xe951, fontFamily: _fontFamily);
-  IconData get soundRecognitionSearch => IconData(0xe952, fontFamily: _fontFamily);
+  IconData get picturesFolderMemories =>
+      IconData(0xe951, fontFamily: _fontFamily);
+  IconData get soundRecognitionSearch =>
+      IconData(0xe952, fontFamily: _fontFamily);
   IconData get multipleStars => IconData(0xe953, fontFamily: _fontFamily);
   IconData get magicWand1 => IconData(0xe954, fontFamily: _fontFamily);
   IconData get fingerSnapping => IconData(0xe955, fontFamily: _fontFamily);
@@ -101,7 +115,8 @@ class Remix {
   IconData get dialPadFinger2 => IconData(0xe95d, fontFamily: _fontFamily);
   IconData get layoutRightSidebar => IconData(0xe95e, fontFamily: _fontFamily);
   IconData get curvesLevelsGraph => IconData(0xe95f, fontFamily: _fontFamily);
-  IconData get videoCloseCaptioning => IconData(0xe960, fontFamily: _fontFamily);
+  IconData get videoCloseCaptioning =>
+      IconData(0xe960, fontFamily: _fontFamily);
   IconData get lessThanSignCircle => IconData(0xe961, fontFamily: _fontFamily);
   IconData get magicWand2 => IconData(0xe962, fontFamily: _fontFamily);
   IconData get brightness4 => IconData(0xe963, fontFamily: _fontFamily);
@@ -125,7 +140,8 @@ class Remix {
   IconData get trophy => IconData(0xe975, fontFamily: _fontFamily);
   IconData get wrenchHand => IconData(0xe976, fontFamily: _fontFamily);
   IconData get layoutWindow1 => IconData(0xe977, fontFamily: _fontFamily);
-  IconData get lineArrowExpandWindow2 => IconData(0xe978, fontFamily: _fontFamily);
+  IconData get lineArrowExpandWindow2 =>
+      IconData(0xe978, fontFamily: _fontFamily);
   IconData get uploadBox1 => IconData(0xe979, fontFamily: _fontFamily);
   IconData get cube => IconData(0xe97a, fontFamily: _fontFamily);
   IconData get newFile => IconData(0xe97b, fontFamily: _fontFamily);
@@ -135,18 +151,21 @@ class Remix {
   IconData get blankCalendar => IconData(0xe97f, fontFamily: _fontFamily);
   IconData get trendingContent => IconData(0xe980, fontFamily: _fontFamily);
   IconData get panoramicScreen => IconData(0xe981, fontFamily: _fontFamily);
-  IconData get rectangleSplitThirds => IconData(0xe982, fontFamily: _fontFamily);
+  IconData get rectangleSplitThirds =>
+      IconData(0xe982, fontFamily: _fontFamily);
   IconData get threadPostTweet => IconData(0xe983, fontFamily: _fontFamily);
   IconData get projector => IconData(0xe984, fontFamily: _fontFamily);
   IconData get paintbrush2 => IconData(0xe985, fontFamily: _fontFamily);
-  IconData get flipHorizontalArrow1 => IconData(0xe986, fontFamily: _fontFamily);
+  IconData get flipHorizontalArrow1 =>
+      IconData(0xe986, fontFamily: _fontFamily);
   IconData get paperclip1 => IconData(0xe987, fontFamily: _fontFamily);
   IconData get filter2 => IconData(0xe988, fontFamily: _fontFamily);
   IconData get stopwatch => IconData(0xe989, fontFamily: _fontFamily);
   IconData get downloadArrow => IconData(0xe98a, fontFamily: _fontFamily);
   IconData get hierarchyLine3 => IconData(0xe98b, fontFamily: _fontFamily);
   IconData get calendarMark => IconData(0xe98c, fontFamily: _fontFamily);
-  IconData get horizontalToggleButton => IconData(0xe98d, fontFamily: _fontFamily);
+  IconData get horizontalToggleButton =>
+      IconData(0xe98d, fontFamily: _fontFamily);
   IconData get pencilSquare => IconData(0xe98e, fontFamily: _fontFamily);
   IconData get deleteTag => IconData(0xe98f, fontFamily: _fontFamily);
   IconData get storyPost => IconData(0xe990, fontFamily: _fontFamily);
@@ -162,13 +181,15 @@ class Remix {
   IconData get fingerprint1 => IconData(0xe99a, fontFamily: _fontFamily);
   IconData get showLayer => IconData(0xe99b, fontFamily: _fontFamily);
   IconData get zoomOutGesture => IconData(0xe99c, fontFamily: _fontFamily);
-  IconData get lineArrowRotateLeft2 => IconData(0xe99d, fontFamily: _fontFamily);
+  IconData get lineArrowRotateLeft2 =>
+      IconData(0xe99d, fontFamily: _fontFamily);
   IconData get expandCropResize => IconData(0xe99e, fontFamily: _fontFamily);
   IconData get helpChat1 => IconData(0xe99f, fontFamily: _fontFamily);
   IconData get newStickyNote => IconData(0xe9a0, fontFamily: _fontFamily);
   IconData get zoomIn => IconData(0xe9a1, fontFamily: _fontFamily);
   IconData get presentation => IconData(0xe9a2, fontFamily: _fontFamily);
-  IconData get lineArrowRotateRightCircle => IconData(0xe9a3, fontFamily: _fontFamily);
+  IconData get lineArrowRotateRightCircle =>
+      IconData(0xe9a3, fontFamily: _fontFamily);
   IconData get increaseIndent => IconData(0xe9a4, fontFamily: _fontFamily);
   IconData get tag => IconData(0xe9a5, fontFamily: _fontFamily);
   IconData get shieldCross => IconData(0xe9a6, fontFamily: _fontFamily);
@@ -188,18 +209,24 @@ class Remix {
   IconData get skull2 => IconData(0xe9b4, fontFamily: _fontFamily);
   IconData get userKingCrown => IconData(0xe9b5, fontFamily: _fontFamily);
   IconData get numberSign => IconData(0xe9b6, fontFamily: _fontFamily);
-  IconData get warrantyBadgeHighlight => IconData(0xe9b7, fontFamily: _fontFamily);
+  IconData get warrantyBadgeHighlight =>
+      IconData(0xe9b7, fontFamily: _fontFamily);
   IconData get timerZero => IconData(0xe9b8, fontFamily: _fontFamily);
   IconData get checkSquare => IconData(0xe9b9, fontFamily: _fontFamily);
   IconData get warningDiamond => IconData(0xe9ba, fontFamily: _fontFamily);
-  IconData get lineArrowMergeVertical => IconData(0xe9bb, fontFamily: _fontFamily);
-  IconData get voiceActivationCheckValidate => IconData(0xe9bc, fontFamily: _fontFamily);
-  IconData get searchHistoryBrowser => IconData(0xe9bd, fontFamily: _fontFamily);
+  IconData get lineArrowMergeVertical =>
+      IconData(0xe9bb, fontFamily: _fontFamily);
+  IconData get voiceActivationCheckValidate =>
+      IconData(0xe9bc, fontFamily: _fontFamily);
+  IconData get searchHistoryBrowser =>
+      IconData(0xe9bd, fontFamily: _fontFamily);
   IconData get hourglass => IconData(0xe9be, fontFamily: _fontFamily);
   IconData get arrowCursor2 => IconData(0xe9bf, fontFamily: _fontFamily);
-  IconData get userSyncOnlineInPerson => IconData(0xe9c0, fontFamily: _fontFamily);
+  IconData get userSyncOnlineInPerson =>
+      IconData(0xe9c0, fontFamily: _fontFamily);
   IconData get newFolder => IconData(0xe9c1, fontFamily: _fontFamily);
-  IconData get disableBellNotification => IconData(0xe9c2, fontFamily: _fontFamily);
+  IconData get disableBellNotification =>
+      IconData(0xe9c2, fontFamily: _fontFamily);
   IconData get dashboardGauge1 => IconData(0xe9c3, fontFamily: _fontFamily);
   IconData get hierarchy2 => IconData(0xe9c4, fontFamily: _fontFamily);
   IconData get zipFolder => IconData(0xe9c5, fontFamily: _fontFamily);
@@ -222,7 +249,8 @@ class Remix {
   IconData get calculator1 => IconData(0xe9d6, fontFamily: _fontFamily);
   IconData get creditCard4 => IconData(0xe9d7, fontFamily: _fontFamily);
   IconData get moustache => IconData(0xe9d8, fontFamily: _fontFamily);
-  IconData get graphBarIncreaseSquare => IconData(0xe9d9, fontFamily: _fontFamily);
+  IconData get graphBarIncreaseSquare =>
+      IconData(0xe9d9, fontFamily: _fontFamily);
   IconData get justiceScale1 => IconData(0xe9da, fontFamily: _fontFamily);
   IconData get creditCardApproved => IconData(0xe9db, fontFamily: _fontFamily);
   IconData get investingAndBanking => IconData(0xe9dc, fontFamily: _fontFamily);
@@ -239,7 +267,8 @@ class Remix {
   IconData get signage1 => IconData(0xe9e7, fontFamily: _fontFamily);
   IconData get bowTie => IconData(0xe9e8, fontFamily: _fontFamily);
   IconData get creditCardDisable => IconData(0xe9e9, fontFamily: _fontFamily);
-  IconData get subscriptionCashflow => IconData(0xe9ea, fontFamily: _fontFamily);
+  IconData get subscriptionCashflow =>
+      IconData(0xe9ea, fontFamily: _fontFamily);
   IconData get targetDollar => IconData(0xe9eb, fontFamily: _fontFamily);
   IconData get wallet => IconData(0xe9ec, fontFamily: _fontFamily);
   IconData get scannerBarCode => IconData(0xe9ed, fontFamily: _fontFamily);
@@ -250,7 +279,8 @@ class Remix {
   IconData get criticalThinking2 => IconData(0xe9f2, fontFamily: _fontFamily);
   IconData get shoppingBasketAdd => IconData(0xe9f3, fontFamily: _fontFamily);
   IconData get bagSuitcase4 => IconData(0xe9f4, fontFamily: _fontFamily);
-  IconData get discountPercentCoupon => IconData(0xe9f5, fontFamily: _fontFamily);
+  IconData get discountPercentCoupon =>
+      IconData(0xe9f5, fontFamily: _fontFamily);
   IconData get shirt => IconData(0xe9f6, fontFamily: _fontFamily);
   IconData get productionBeltTime => IconData(0xe9f7, fontFamily: _fontFamily);
   IconData get shoppingCart2 => IconData(0xe9f8, fontFamily: _fontFamily);
@@ -264,21 +294,25 @@ class Remix {
   IconData get iphone => IconData(0xea00, fontFamily: _fontFamily);
   IconData get phoneNotification => IconData(0xea01, fontFamily: _fontFamily);
   IconData get phoneQr => IconData(0xea02, fontFamily: _fontFamily);
-  IconData get transferForwardingCall => IconData(0xea03, fontFamily: _fontFamily);
-  IconData get notificationApplication1 => IconData(0xea04, fontFamily: _fontFamily);
+  IconData get transferForwardingCall =>
+      IconData(0xea03, fontFamily: _fontFamily);
+  IconData get notificationApplication1 =>
+      IconData(0xea04, fontFamily: _fontFamily);
   IconData get phone => IconData(0xea05, fontFamily: _fontFamily);
   IconData get signalFull => IconData(0xea06, fontFamily: _fontFamily);
   IconData get airplaneDisabled => IconData(0xea07, fontFamily: _fontFamily);
   IconData get contactPhonebook2 => IconData(0xea08, fontFamily: _fontFamily);
   IconData get cellularNetworkLte => IconData(0xea09, fontFamily: _fontFamily);
-  IconData get notificationAlarmSnooze => IconData(0xea0a, fontFamily: _fontFamily);
+  IconData get notificationAlarmSnooze =>
+      IconData(0xea0a, fontFamily: _fontFamily);
   IconData get missedCall => IconData(0xea0b, fontFamily: _fontFamily);
   IconData get phoneShield => IconData(0xea0c, fontFamily: _fontFamily);
   IconData get phoneRotateMobile => IconData(0xea0d, fontFamily: _fontFamily);
   IconData get phoneRinging1 => IconData(0xea0e, fontFamily: _fontFamily);
   IconData get applicationAdd => IconData(0xea0f, fontFamily: _fontFamily);
   IconData get browserDashboard => IconData(0xea10, fontFamily: _fontFamily);
-  IconData get browserMultipleWindow => IconData(0xea11, fontFamily: _fontFamily);
+  IconData get browserMultipleWindow =>
+      IconData(0xea11, fontFamily: _fontFamily);
   IconData get threatUsb => IconData(0xea12, fontFamily: _fontFamily);
   IconData get cloudWarning => IconData(0xea13, fontFamily: _fontFamily);
   IconData get threatMonitor => IconData(0xea14, fontFamily: _fontFamily);
@@ -302,7 +336,8 @@ class Remix {
   IconData get landscape2 => IconData(0xea26, fontFamily: _fontFamily);
   IconData get timeLapse => IconData(0xea27, fontFamily: _fontFamily);
   IconData get cameraTripod => IconData(0xea28, fontFamily: _fontFamily);
-  IconData get compsitionHorizontal => IconData(0xea29, fontFamily: _fontFamily);
+  IconData get compsitionHorizontal =>
+      IconData(0xea29, fontFamily: _fontFamily);
   IconData get flash3 => IconData(0xea2a, fontFamily: _fontFamily);
   IconData get cameraSettingGear => IconData(0xea2b, fontFamily: _fontFamily);
   IconData get filmSlate => IconData(0xea2c, fontFamily: _fontFamily);
@@ -343,9 +378,11 @@ class Remix {
   IconData get dice5 => IconData(0xea4f, fontFamily: _fontFamily);
   IconData get earpods => IconData(0xea50, fontFamily: _fontFamily);
   IconData get recordPlayer => IconData(0xea51, fontFamily: _fontFamily);
-  IconData get recordingTapeBubbleCircle => IconData(0xea52, fontFamily: _fontFamily);
+  IconData get recordingTapeBubbleCircle =>
+      IconData(0xea52, fontFamily: _fontFamily);
   IconData get partyPopper => IconData(0xea53, fontFamily: _fontFamily);
-  IconData get champagnePartyAlcohol => IconData(0xea54, fontFamily: _fontFamily);
+  IconData get champagnePartyAlcohol =>
+      IconData(0xea54, fontFamily: _fontFamily);
   IconData get forkKnife => IconData(0xea55, fontFamily: _fontFamily);
   IconData get softDrinkCan => IconData(0xea56, fontFamily: _fontFamily);
   IconData get teaCup => IconData(0xea57, fontFamily: _fontFamily);
@@ -359,42 +396,56 @@ class Remix {
   IconData get iceCream2 => IconData(0xea5f, fontFamily: _fontFamily);
   IconData get carrot => IconData(0xea60, fontFamily: _fontFamily);
   IconData get tooth => IconData(0xea61, fontFamily: _fontFamily);
-  IconData get sosHelpEmergencySign => IconData(0xea62, fontFamily: _fontFamily);
+  IconData get sosHelpEmergencySign =>
+      IconData(0xea62, fontFamily: _fontFamily);
   IconData get wheelchair => IconData(0xea63, fontFamily: _fontFamily);
   IconData get heartCross => IconData(0xea64, fontFamily: _fontFamily);
-  IconData get nurseAssistantEmergency => IconData(0xea65, fontFamily: _fontFamily);
-  IconData get prescriptionPillsDrugsHealthcare => IconData(0xea66, fontFamily: _fontFamily);
+  IconData get nurseAssistantEmergency =>
+      IconData(0xea65, fontFamily: _fontFamily);
+  IconData get prescriptionPillsDrugsHealthcare =>
+      IconData(0xea66, fontFamily: _fontFamily);
   IconData get healthCare2 => IconData(0xea67, fontFamily: _fontFamily);
   IconData get hospitalSign => IconData(0xea68, fontFamily: _fontFamily);
-  IconData get callCenterSupportService => IconData(0xea69, fontFamily: _fontFamily);
-  IconData get microscopeObservationSciene => IconData(0xea6a, fontFamily: _fontFamily);
+  IconData get callCenterSupportService =>
+      IconData(0xea69, fontFamily: _fontFamily);
+  IconData get microscopeObservationSciene =>
+      IconData(0xea6a, fontFamily: _fontFamily);
   IconData get bloodDonateDrop => IconData(0xea6b, fontFamily: _fontFamily);
   IconData get virusAntivirus => IconData(0xea6c, fontFamily: _fontFamily);
-  IconData get checkupMedicalReportClipboard => IconData(0xea6d, fontFamily: _fontFamily);
+  IconData get checkupMedicalReportClipboard =>
+      IconData(0xea6d, fontFamily: _fontFamily);
   IconData get heartRate => IconData(0xea6e, fontFamily: _fontFamily);
   IconData get earSpeciality => IconData(0xea6f, fontFamily: _fontFamily);
   IconData get insuranceHand1 => IconData(0xea70, fontFamily: _fontFamily);
   IconData get tabletCapsule => IconData(0xea71, fontFamily: _fontFamily);
-  IconData get onlineMedicalServiceMonitor => IconData(0xea72, fontFamily: _fontFamily);
+  IconData get onlineMedicalServiceMonitor =>
+      IconData(0xea72, fontFamily: _fontFamily);
   IconData get mailSendEnvelope => IconData(0xea73, fontFamily: _fontFamily);
-  IconData get chatBubbleSquarePhone => IconData(0xea74, fontFamily: _fontFamily);
+  IconData get chatBubbleSquarePhone =>
+      IconData(0xea74, fontFamily: _fontFamily);
   IconData get inboxOpen => IconData(0xea75, fontFamily: _fontFamily);
-  IconData get chatBubbleTextSquare => IconData(0xea76, fontFamily: _fontFamily);
-  IconData get mailSendEmailMessageCircle => IconData(0xea77, fontFamily: _fontFamily);
+  IconData get chatBubbleTextSquare =>
+      IconData(0xea76, fontFamily: _fontFamily);
+  IconData get mailSendEmailMessageCircle =>
+      IconData(0xea77, fontFamily: _fontFamily);
   IconData get happyFace => IconData(0xea78, fontFamily: _fontFamily);
   IconData get inboxTray1 => IconData(0xea79, fontFamily: _fontFamily);
   IconData get inbox => IconData(0xea7a, fontFamily: _fontFamily);
-  IconData get chatBubbleTypingOval => IconData(0xea7b, fontFamily: _fontFamily);
+  IconData get chatBubbleTypingOval =>
+      IconData(0xea7b, fontFamily: _fontFamily);
   IconData get smileyBlessed => IconData(0xea7c, fontFamily: _fontFamily);
   IconData get mailReplyAll => IconData(0xea7d, fontFamily: _fontFamily);
-  IconData get discussionConverstionReply => IconData(0xea7e, fontFamily: _fontFamily);
+  IconData get discussionConverstionReply =>
+      IconData(0xea7e, fontFamily: _fontFamily);
   IconData get inboxFavorite => IconData(0xea7f, fontFamily: _fontFamily);
   IconData get signAt => IconData(0xea80, fontFamily: _fontFamily);
   IconData get aiChipRobot => IconData(0xea81, fontFamily: _fontFamily);
   IconData get deepfakeTechnology1 => IconData(0xea82, fontFamily: _fontFamily);
   IconData get aiScannerRobot => IconData(0xea83, fontFamily: _fontFamily);
-  IconData get artificialIntelligenceBrainChip => IconData(0xea84, fontFamily: _fontFamily);
-  IconData get aiGeneratePortraitImageSpark => IconData(0xea85, fontFamily: _fontFamily);
+  IconData get artificialIntelligenceBrainChip =>
+      IconData(0xea84, fontFamily: _fontFamily);
+  IconData get aiGeneratePortraitImageSpark =>
+      IconData(0xea85, fontFamily: _fontFamily);
   IconData get elevator => IconData(0xea86, fontFamily: _fontFamily);
   IconData get triangleFlag => IconData(0xea87, fontFamily: _fontFamily);
   IconData get baggage => IconData(0xea88, fontFamily: _fontFamily);
@@ -420,7 +471,8 @@ class Remix {
   IconData get highSpeedTrainFront => IconData(0xea9c, fontFamily: _fontFamily);
   IconData get streetSign => IconData(0xea9d, fontFamily: _fontFamily);
   IconData get smokingArea => IconData(0xea9e, fontFamily: _fontFamily);
-  IconData get locationPinMedicalHospital2 => IconData(0xea9f, fontFamily: _fontFamily);
+  IconData get locationPinMedicalHospital2 =>
+      IconData(0xea9f, fontFamily: _fontFamily);
   IconData get servingDomeHand => IconData(0xeaa0, fontFamily: _fontFamily);
   IconData get theaterMask => IconData(0xeaa1, fontFamily: _fontFamily);
   IconData get earth1 => IconData(0xeaa2, fontFamily: _fontFamily);
@@ -433,17 +485,21 @@ class Remix {
   IconData get locationPin3 => IconData(0xeaa9, fontFamily: _fontFamily);
   IconData get walker => IconData(0xeaaa, fontFamily: _fontFamily);
   IconData get fireAlarm2 => IconData(0xeaab, fontFamily: _fontFamily);
-  IconData get navigationArrowNorth => IconData(0xeaac, fontFamily: _fontFamily);
+  IconData get navigationArrowNorth =>
+      IconData(0xeaac, fontFamily: _fontFamily);
   IconData get locationHeartPin => IconData(0xeaad, fontFamily: _fontFamily);
   IconData get passportGlobe => IconData(0xeaae, fontFamily: _fontFamily);
-  IconData get gasStationFuelPetroleum => IconData(0xeaaf, fontFamily: _fontFamily);
+  IconData get gasStationFuelPetroleum =>
+      IconData(0xeaaf, fontFamily: _fontFamily);
   IconData get locationCompass1 => IconData(0xeab0, fontFamily: _fontFamily);
-  IconData get signagePedestrianNoCrossing => IconData(0xeab1, fontFamily: _fontFamily);
+  IconData get signagePedestrianNoCrossing =>
+      IconData(0xeab1, fontFamily: _fontFamily);
   IconData get locationCompass2 => IconData(0xeab2, fontFamily: _fontFamily);
   IconData get batteryCharging => IconData(0xeab3, fontFamily: _fontFamily);
   IconData get usbPort => IconData(0xeab4, fontFamily: _fontFamily);
   IconData get bluetoothSearching => IconData(0xeab5, fontFamily: _fontFamily);
-  IconData get watchCircleHeartbeatMonitor1 => IconData(0xeab6, fontFamily: _fontFamily);
+  IconData get watchCircleHeartbeatMonitor1 =>
+      IconData(0xeab6, fontFamily: _fontFamily);
   IconData get cursorClick => IconData(0xeab7, fontFamily: _fontFamily);
   IconData get youtubeLogo => IconData(0xeab8, fontFamily: _fontFamily);
   IconData get tiktokLogo => IconData(0xeab9, fontFamily: _fontFamily);
@@ -452,26 +508,30 @@ class Remix {
   IconData get laptop => IconData(0xeabc, fontFamily: _fontFamily);
   IconData get screenCurve => IconData(0xeabd, fontFamily: _fontFamily);
   IconData get charging => IconData(0xeabe, fontFamily: _fontFamily);
-  IconData get wirelessFastCharging => IconData(0xeabf, fontFamily: _fontFamily);
+  IconData get wirelessFastCharging =>
+      IconData(0xeabf, fontFamily: _fontFamily);
   IconData get drone => IconData(0xeac0, fontFamily: _fontFamily);
   IconData get voiceMail => IconData(0xeac1, fontFamily: _fontFamily);
   IconData get webcamVideoOff => IconData(0xeac2, fontFamily: _fontFamily);
   IconData get wifiAntenna => IconData(0xeac3, fontFamily: _fontFamily);
   IconData get iosIpados => IconData(0xeac4, fontFamily: _fontFamily);
   IconData get photoCamera => IconData(0xeac5, fontFamily: _fontFamily);
-  IconData get keyboardOptionSettingGear => IconData(0xeac6, fontFamily: _fontFamily);
+  IconData get keyboardOptionSettingGear =>
+      IconData(0xeac6, fontFamily: _fontFamily);
   IconData get network => IconData(0xeac7, fontFamily: _fontFamily);
   IconData get watchCircleCharging => IconData(0xeac8, fontFamily: _fontFamily);
   IconData get facebookLogo1 => IconData(0xeac9, fontFamily: _fontFamily);
   IconData get printer => IconData(0xeaca, fontFamily: _fontFamily);
-  IconData get wifiSecureConnection => IconData(0xeacb, fontFamily: _fontFamily);
+  IconData get wifiSecureConnection =>
+      IconData(0xeacb, fontFamily: _fontFamily);
   IconData get routerWifiNetwork => IconData(0xeacc, fontFamily: _fontFamily);
   IconData get returnSquare2 => IconData(0xeacd, fontFamily: _fontFamily);
   IconData get webcam => IconData(0xeace, fontFamily: _fontFamily);
   IconData get hardDrive1 => IconData(0xeacf, fontFamily: _fontFamily);
   IconData get electricCord1 => IconData(0xead0, fontFamily: _fontFamily);
   IconData get watchSquareMenu => IconData(0xead1, fontFamily: _fontFamily);
-  IconData get handHeldTabletWriting => IconData(0xead2, fontFamily: _fontFamily);
+  IconData get handHeldTabletWriting =>
+      IconData(0xead2, fontFamily: _fontFamily);
   IconData get desktopLock => IconData(0xead3, fontFamily: _fontFamily);
   IconData get monitorError => IconData(0xead4, fontFamily: _fontFamily);
   IconData get ejectSquare => IconData(0xead5, fontFamily: _fontFamily);
@@ -503,5 +563,6 @@ class Remix {
   IconData get dna => IconData(0xeaef, fontFamily: _fontFamily);
   IconData get pineTree => IconData(0xeaf0, fontFamily: _fontFamily);
   IconData get windmill => IconData(0xeaf1, fontFamily: _fontFamily);
-  IconData get decentWorkAndEconomicGrowth => IconData(0xeaf2, fontFamily: _fontFamily);
+  IconData get decentWorkAndEconomicGrowth =>
+      IconData(0xeaf2, fontFamily: _fontFamily);
 }
