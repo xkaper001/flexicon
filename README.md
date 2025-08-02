@@ -21,11 +21,12 @@ Flexicon is a Flutter package that provides access to the Flex icon collection f
 
 ## Features
 
-- 🎨 High-quality vector icons from Streamline's Flex collection
-- 📱 Optimized for Flutter applications
+- 🎨 **Four Complete Icon Collections**: Line, Remix, Pop, and Flat styles from Streamline's Flex collection
+- 📱 Optimized for Flutter applications with native IconData format
 - 🚀 Easy to use with familiar Flutter IconData format
 - 📦 Lightweight package with custom font integration
-- 🎯 Pixel-perfect icons for crisp display at any size
+- 🎯 **2000+ pixel-perfect icons** for crisp display at any size
+- ✨ **New FlexLine Collection**: 500+ minimal line icons perfect for modern UIs
 
 ## Installation
 
@@ -33,7 +34,7 @@ Add `flexicon` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flexicon: ^0.1.0
+  flexicon: ^0.4.0
 ```
 
 Then run:
@@ -53,16 +54,66 @@ import 'package:flexicon/flexicon.dart';
 Use the icons just like any other Flutter icons:
 
 ```dart
-Icon(
-  FlexRemix.heart,
-  size: 24.0,
-  color: Colors.red,
+// Choose from four beautiful icon styles
+Icon(FlexIcons.line.heart, size: 24.0, color: Colors.red)    // New minimal line style
+Icon(FlexIcons.remix.heart, size: 24.0, color: Colors.red)   // Bold remix style
+Icon(FlexIcons.pop.heart, size: 24.0, color: Colors.red)     // Vibrant pop style
+Icon(FlexIcons.flat.heart, size: 24.0, color: Colors.red)    // Modern flat style
+```
+
+### Advanced Usage
+
+```dart
+// Mix and match styles for different purposes
+AppBar(
+  leading: Icon(FlexIcons.line.home2), // Clean navigation
+  actions: [
+    IconButton(
+      icon: Icon(FlexIcons.remix.star), // Prominent actions
+      onPressed: () {},
+    ),
+  ],
 )
 ```
 
-## Available Icons
+## Available Icon Collections
 
-The package includes a comprehensive collection of icons covering various categories:
+Flexicon v0.4.0 includes **four comprehensive icon collections** with over **500 icons each**:
+
+### 🎯 FlexLine (New in v0.4.0!)
+**500+ minimal line icons** - Perfect for clean, modern interfaces
+```dart
+Icon(FlexIcons.line.heart)
+Icon(FlexIcons.line.home2)
+Icon(FlexIcons.line.star)
+```
+
+### 🎨 FlexRemix
+**500+ bold remix icons** - Great for prominent actions and highlights
+```dart
+Icon(FlexIcons.remix.heart)
+Icon(FlexIcons.remix.home2)
+Icon(FlexIcons.remix.star)
+```
+
+### 🌈 FlexPop
+**500+ vibrant pop icons** - Ideal for colorful, engaging interfaces
+```dart
+Icon(FlexIcons.pop.heart)
+Icon(FlexIcons.pop.home2)
+Icon(FlexIcons.pop.star)
+```
+
+### 🏢 FlexFlat
+**500+ modern flat icons** - Perfect for professional, minimal designs
+```dart
+Icon(FlexIcons.flat.heart)
+Icon(FlexIcons.flat.home2)
+Icon(FlexIcons.flat.star)
+```
+
+### Icon Categories
+All collections include comprehensive coverage of:
 
 - **Business & Office**: `workspaceDesk`, `officeBuilding1`, `groupMeetingApproval`
 - **Education**: `school`, `graduationCap`, `bookReading`, `dictionaryLanguageBook`

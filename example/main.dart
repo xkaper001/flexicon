@@ -8,24 +8,46 @@ class SomeWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flexicon Example'),
-        leading: Icon(FlexIcons.remix.home2),
+        title: const Text('Flexicon v0.4.0 - Four Icon Styles'),
+        leading: Icon(FlexIcons.line.home2), // New FlexLine style!
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+            // Showcase all four icon styles
+            const Text(
+              'FlexLine (New!)',
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
+            Icon(FlexIcons.line.heart, size: 48.0, color: Colors.red),
+            const SizedBox(height: 24),
+            
+            const Text(
+              'FlexRemix',
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
             Icon(FlexIcons.remix.heart, size: 48.0, color: Colors.red),
-            SizedBox(height: 16),
-            Icon(FlexIcons.remix.starBadge, size: 48.0, color: Colors.amber),
-            SizedBox(height: 16),
-            Icon(FlexIcons.remix.lightbulb, size: 48.0, color: Colors.yellow),
+            const SizedBox(height: 24),
+            
+            const Text(
+              'FlexPop',
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
+            Icon(FlexIcons.pop.heart, size: 48.0, color: Colors.red),
+            const SizedBox(height: 24),
+            
+            const Text(
+              'FlexFlat',
+              style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
+            Icon(FlexIcons.flat.heart, size: 48.0, color: Colors.red),
           ],
         ),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(FlexIcons.remix.magicWand1),
+        child: Icon(FlexIcons.line.star), // Using new FlexLine icon
       ),
     );
   }
