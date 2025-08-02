@@ -9,26 +9,26 @@ class SomeWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('Flexicon Example'),
-        leading: Icon(FlexRemix.home2),
+        leading: Icon(FlexIcons.remix.home2),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Icon(
-              FlexRemix.heart,
+              FlexIcons.remix.heart,
               size: 48.0,
               color: Colors.red,
             ),
             SizedBox(height: 16),
             Icon(
-              FlexRemix.starBadge,
+              FlexIcons.remix.starBadge,
               size: 48.0,
               color: Colors.amber,
             ),
             SizedBox(height: 16),
             Icon(
-              FlexRemix.lightbulb,
+              FlexIcons.remix.lightbulb,
               size: 48.0,
               color: Colors.yellow,
             ),
@@ -37,7 +37,7 @@ class SomeWidget extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(FlexRemix.magicWand1),
+        child: Icon(FlexIcons.remix.magicWand1),
       ),
     );
   }
