@@ -54,7 +54,7 @@ Use the icons just like any other Flutter icons:
 
 ```dart
 Icon(
-  FlexIcons.remix.heart,
+  FlexIcon.remix.heart,
   size: 24.0,
   color: Colors.red,
 )

@@ -1,3 +1,11 @@
+## 0.6.0
+
+* Added new Solid icon collection with 500+ filled solid icons from Streamline's Flex Solid collection
+* Introduced `FlexIcon.solid` collection alongside existing icon sets (remix, pop, flat, line, and neon)
+* Enhanced icon coverage with six comprehensive icon sets covering all major Streamline Flex icon styles
+* Updated font assets to include FlexSolid font family
+* Fixed font family reference in Solid class for proper icon rendering
+
 ## 0.5.0
 
 * Added new Neon icon collection with 500+ vibrant neon-style icons from Streamline's Flex Neon collection
