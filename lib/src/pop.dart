@@ -3,7 +3,7 @@ import 'package:flutter/widgets.dart';
 class Pop {
   const Pop();
 
-  static String get _fontFamily => 'FlexPop';
+  static const String _fontFamily = 'FlexPop';
 
   IconData get workspaceDesk => IconData(0xe900, fontFamily: _fontFamily);
   IconData get groupMeetingApproval =>

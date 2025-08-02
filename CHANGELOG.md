@@ -1,3 +1,11 @@
+## 0.4.0
+
+* Added new Line icon collection with 500+ minimal line icons from Streamline's Flex Line collection
+* Introduced `FlexIcons.line` collection alongside existing `remix`, `pop`, and `flat` collections
+* Enhanced icon coverage with four comprehensive icon sets (Remix, Pop, Flat, and Line)
+* Updated font assets to include FlexLine font family
+* Minor code optimizations for const declarations in font family names
+
 ## 0.3.0
 
 * Added new Flat icon collection with 500+ icons from Streamline's Flex Flat collection
